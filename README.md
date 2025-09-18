@@ -73,6 +73,7 @@ A passionate and motivated web developer from Jordan. I enjoy tackling challengi
     <img src="https://coursat.orange.jo/pluginfile.php/47/badges/badgeimage/16/f3" alt="HTML at Orange" width="80" height="80" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)'" />
     <img src="https://coursat.orange.jo/pluginfile.php/48/badges/badgeimage/4/f3" alt="CSS at Orange" width="80" height="80" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)'" />
     <img src="https://coursat.orange.jo/pluginfile.php/45/badges/badgeimage/12/f3" alt="JavaScript at Orange" width="80" height="80" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://objectstorage.us-phoenix-1.oraclecloud.com/p/c3pofC7CHkSqKCRIe7q91rfgM9hXgQQW-GN-CtR9tbzkW4HIN0H02OJ8xwoeHPO_/n/axdnydvy8b2d/b/BCKMLPHXDEV_IMAGES/o/img/PROD/Learning-Path_badge_default.png" alt="JavaScript at Orange" width="80" height="80" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)'" />
 </p>
 
 
