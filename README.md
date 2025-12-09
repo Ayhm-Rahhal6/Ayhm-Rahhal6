@@ -9,7 +9,6 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>👨‍💻 I'm a <b>Full Stack Web Developer</b></li>
     <li>📍 Based in <b>Amman, Jordan</b></li>
     <li>🏢 I have completed training at <b>Orange Coding Academy</b> and <b>Clever Mind</b></li>
-    <li>🌱 I'm currently learning <b>DevOps</b> and improving my skills in <b>Asp .Net</b></li>
     <li>💬 You can ask me about <b>my projects, experience, and any tech-related</b></li>
     <li>📮 You can contact me directly here: <b>ayhmrahhal66@gmail.com</b></li>
   </ul>
