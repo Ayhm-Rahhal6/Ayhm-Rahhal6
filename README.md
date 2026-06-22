@@ -67,8 +67,6 @@ A passionate and motivated web developer from Jordan. I enjoy tackling challengi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>&nbsp;
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
-  <!-- Drupal -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" alt="drupal" width="40" height="40"/>
 </p>
 </br>
 <h3 align="left">Badges & Certifications:</h3>
